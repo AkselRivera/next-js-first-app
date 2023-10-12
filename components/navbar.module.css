@@ -1,0 +1,13 @@
+
+
+.menu-container{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 15px 20px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.menu-container a {
+    margin-right: 15px;
+}
